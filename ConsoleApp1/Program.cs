@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Print("Mohsen");
+
+void Print(String t)
+{
+    Console.WriteLine(t);
+}
